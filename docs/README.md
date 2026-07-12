@@ -18,3 +18,5 @@ Communication and quality are embedded throughout delivery rather than deferred 
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Cross-Role Collaboration Matrix](./octoacme-cross-role-collaboration-matrix.md)
+- [OctoAcme Handoff Readiness Checklist](./octoacme-handoff-readiness-checklist.md)
